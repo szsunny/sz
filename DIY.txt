@@ -1,0 +1,8 @@
+無綫新聞,http://ws.matchupstream.tuboshu.com/live/22f33bd49d8c0596aa2e0f672bfa80cb.flv
+翡翠台,http://ws.matchupstream.tuboshu.com/live/81d697e476bbc9af07f2f7073625afbd.flv
+明珠台,http://ws.matchupstream.tuboshu.com/live/3d6bec4e884bdfa9fdcfdf3236c67103.flv
+ViuTV,http://ws.matchupstream.tuboshu.com/live/2913e520502a2581ea47054872303458.flv
+NOW新聞,http://ws.matchupstream.tuboshu.com/live/be0cefcddd18120a4af09045114e6781.flv
+有綫新聞,http://ws.matchupstream.tuboshu.com/live/d780032403a850f0d37dba685620e27b.flv
+有綫18,http://ws.matchupstream.tuboshu.com/live/9fd76fccf13a34c8df8b317aa27f16da.flv
+有綫603,http://ws.matchupstream.tuboshu.com/live/c41bf452f48d5469b2f35fcf208c74a6.flv
