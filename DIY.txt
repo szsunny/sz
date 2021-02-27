@@ -1,4 +1,4 @@
-香港,#genre#
+港澳台,#genre#
 無綫新聞,http://ws.matchupstream.tuboshu.com/live/22f33bd49d8c0596aa2e0f672bfa80cb.flv
 翡翠台,http://ws.matchupstream.tuboshu.com/live/81d697e476bbc9af07f2f7073625afbd.flv
 明珠台,http://ws.matchupstream.tuboshu.com/live/3d6bec4e884bdfa9fdcfdf3236c67103.flv
