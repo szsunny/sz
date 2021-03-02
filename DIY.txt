@@ -13,6 +13,8 @@ NOW新聞,http://ws.matchupstream.tuboshu.com/live/be0cefcddd18120a4af09045114e6
 凤凰香港蓝光,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8$蓝光1#http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8$蓝光2
 凤凰资讯蓝光,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8$蓝光1#http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8$蓝光2
 凤凰卫视蓝光,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8$蓝光1#http://117.169.120.138:8080/live/fhchinese/index.m3u8$蓝光2
+汕尾1,http://dslive.grtn.cn/swzh/sd/live.m3u8
+汕尾2,http://244852068.cloudvdn.com/a.m3u8?domain=24ll.qingk.cn&player=VDkAADf8ggmfd2gW&secondToken=secondToken%3Azzu8lf_aVgGqMoYfF3NaPUo6Msw&sign=56517908f7c80cdc3b2de2b3022d06b5&streamid=qingk24%3Aqingk24%2Fswsjzb2&t=603df1a3&v3=1
 深圳都市,http://www.wodedianshi.com/QQ860001680/sztv.php?id=2
 深圳电视剧,http://www.wodedianshi.com/QQ860001680/sztv.php?id=3
 深圳公共,http://www.wodedianshi.com/QQ860001680/sztv.php?id=4
