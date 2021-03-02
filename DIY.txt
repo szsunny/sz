@@ -1,4 +1,4 @@
-广东港澳台#
+广东港澳台,#genre#
 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188$翡翠台1#http://ws.matchupstream.tuboshu.com/live/81d697e476bbc9af07f2f7073625afbd.flv$翡翠台2#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1$翡翠台3
 明珠台,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A$明珠台1#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1$明珠台2#http://ws.matchupstream.tuboshu.com/live/3d6bec4e884bdfa9fdcfdf3236c67103.flv$明珠台3#http://116.199.5.52:8114/00000000/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8$明珠台4
 互动新闻,http://202.175.127.77/live/show/ch2/index.m3u8
@@ -32,7 +32,7 @@ NOW新聞,http://ws.matchupstream.tuboshu.com/live/be0cefcddd18120a4af09045114e6
 澳门奥视,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 澳门葡语,http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
 澳视综艺,http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8
-影视动漫卡通#
+影视动漫卡通,#genre#
 综艺HD,http://112.17.40.140/PLTV/88888888/224/3221226479/index.m3u8
 金鹰卡通,http://111.12.102.68:6610/PLTV/77777777/224/3221225702/index.m3u8?
 卡酷少儿,http://111.12.102.68:6610/PLTV/77777777/224/3221225730/index.m3u8?
@@ -40,7 +40,7 @@ NOW新聞,http://ws.matchupstream.tuboshu.com/live/be0cefcddd18120a4af09045114e6
 嘉佳卡通,http://111.12.102.68:6610/PLTV/77777777/224/3221225797/index.m3u8?
 动漫电影频道,http://112.17.40.140/PLTV/88888888/224/3221226178/index.m3u8
 亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&amp;IASHttpSessionId=SLB4328320190321203540013412&amp;m3u8_level=2&amp;ztecid=10052&amp;virtualDomain=zjhs.live_hls.zte.com&amp;ispcode=3&amp;tid=C3V7K4ET1VFDUJY6C1IASRV55G66&amp;ts=1553493153
-央视#
+央视,#genre#
 CCTV-1蓝光1,http://111.12.102.68:6610/PLTV/77777777/224/3221225674/index.m3u8?
 CCTV-1蓝光2,http://111.12.102.68:6610/PLTV/77777777/224/3221225654/index.m3u8?
 CCTV-1蓝光3,http://111.12.102.68:6610/PLTV/77777777/224/3221225772/index.m3u8?
@@ -93,7 +93,7 @@ CCTV-4K蓝码,http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
 CCTV-4K高码1,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 CCTV-4K高码2,http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
 CCTV-4K高码3,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
-卫视#
+卫视,#genre#
 北京卫视蓝光1,http://117.169.119.199:8080/live/hdbeijingstv/index.m3u8
 北京卫视蓝光2,http://111.12.102.68:6610/PLTV/77777777/224/3221225664/index.m3u8?
 北京卫视蓝光3,http://111.12.102.68:6610/PLTV/77777777/224/3221225651/index.m3u8?
@@ -165,7 +165,7 @@ CCTV-4K高码3,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 广西卫视高清2,http://39.134.168.91/PLTV/1/224/3221225598/index.m3u8
 南方卫视高清2,http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
 兵团卫视高清2,http://39.134.168.91/PLTV/1/224/3221225634/index.m3u8
-地方#
+地方,#genre#
 浙江柯桥综合,http://live.scbtv.cn/hls/news/index.m3u8
 浙江柯桥时尚台,http://live.scbtv.cn/hls/qfc/index.m3u8
 浙江影视台,http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
