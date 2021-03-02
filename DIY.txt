@@ -5,7 +5,7 @@
 無綫新聞,http://ws.matchupstream.tuboshu.com/live/22f33bd49d8c0596aa2e0f672bfa80cb.flv
 ViuTV,http://ws.matchupstream.tuboshu.com/live/2913e520502a2581ea47054872303458.flv
 NOW新聞,http://ws.matchupstream.tuboshu.com/live/be0cefcddd18120a4af09045114e6781.flv
-有綫新聞,http://ws.matchupstream.tuboshu.com/live/d780032403a850f0d37dba685620e27b.flv
+有綫新聞,http://ws.matchupstream.tuboshu.com/live/d780032403a850f0d37dba685620e27b.flv￥有線新聞台1#http://liveicm12.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94.m3u8$有線新聞台2
 有綫18,http://ws.matchupstream.tuboshu.com/live/9fd76fccf13a34c8df8b317aa27f16da.flv
 有綫603,http://ws.matchupstream.tuboshu.com/live/c41bf452f48d5469b2f35fcf208c74a6.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
@@ -13,8 +13,13 @@ NOW新聞,http://ws.matchupstream.tuboshu.com/live/be0cefcddd18120a4af09045114e6
 凤凰香港蓝光,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8$蓝光1#http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8$蓝光2
 凤凰资讯蓝光,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8$蓝光1#http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8$蓝光2
 凤凰卫视蓝光,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8$蓝光1#http://117.169.120.138:8080/live/fhchinese/index.m3u8$蓝光2
-汕尾1,http://dslive.grtn.cn/swzh/sd/live.m3u8
-汕尾2,http://244852068.cloudvdn.com/a.m3u8?domain=24ll.qingk.cn&player=VDkAADf8ggmfd2gW&secondToken=secondToken%3Azzu8lf_aVgGqMoYfF3NaPUo6Msw&sign=56517908f7c80cdc3b2de2b3022d06b5&streamid=qingk24%3Aqingk24%2Fswsjzb2&t=603df1a3&v3=1
+汕尾综合,http://dslive.grtn.cn/swzh/sd/live.m3u8$汕尾综合1#http://244852069.cloudvdn.com/1613843617.ts?domain=24ll.qingk.cn&player=MRgAALbIiOvDeGgW&streamid=qingk24%3Aqingk24%2Fswsjzb1&v3=1$汕尾综合2#http://dslive.grtn.cn/swzh/sd/live.m3u8$汕尾综合3
+汕尾公共,http://244852068.cloudvdn.com/a.m3u8?domain=24ll.qingk.cn&player=VDkAADf8ggmfd2gW&secondToken=secondToken%3Azzu8lf_aVgGqMoYfF3NaPUo6Msw&sign=56517908f7c80cdc3b2de2b3022d06b5&streamid=qingk24%3Aqingk24%2Fswsjzb2&t=603df1a3&v3=1$汕尾公共1#http://244852069.cloudvdn.com/a.m3u8?domain=24ll.qingk.cn&player=MRgAAG_ZkMUaeWgW&secondToken=secondToken%3AhVJeS4l3ewPAV_RJlXJYzw2c9rg&sign=68079028e162e4d3f0dda59ecf5e1d00&streamid=qingk24%3Aqingk24%2Fswsjzb2&t=603df7d5&v3=1$汕尾公共2
+揭阳综合,http://dslive.grtn.cn/jyzh/sd/live.m3u8$揭阳综合1#http://$揭阳综合2
+汕头综合,http://
+潮州综合,http://dslive.grtn.cn/czzh/sd/live.m3u8
+潮州公共,http://live.zscz0768.com/live/ggpd.m3u8
+潮安综合,http://chaoan.chaoantv.com:8278/zongyi_1028/160548_1614629904.ts
 深圳都市,http://www.wodedianshi.com/QQ860001680/sztv.php?id=2
 深圳电视剧,http://www.wodedianshi.com/QQ860001680/sztv.php?id=3
 深圳公共,http://www.wodedianshi.com/QQ860001680/sztv.php?id=4
@@ -26,8 +31,6 @@ NOW新聞,http://ws.matchupstream.tuboshu.com/live/be0cefcddd18120a4af09045114e6
 深圳DV生活,http://www.wodedianshi.com/QQ860001680/sztv.php?id=10
 深圳卫视蓝光,http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8$蓝光1#http://223.110.243.171/PLTV/3/224/3221227217/index.m3u8$蓝光2#http://111.12.102.68:6610/PLTV/77777777/224/3221225691/index.m3u8?$蓝光3
 广东卫视蓝光,http://39.134.66.66/PLTV/88888888/224/3221225667/index.m3u8$蓝光1#http://112.17.40.140/PLTV/88888888/224/3221226225/index.m3u8$蓝光2#http://111.12.102.68:6610/PLTV/77777777/224/3221225666/index.m3u8?$蓝光3
-广东潮州综合,http://dslive.grtn.cn/czzh/sd/live.m3u8
-广东潮州公共,http://live.zscz0768.com/live/ggpd.m3u8
 星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 澳门卫视,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 澳门资讯,http://61.244.22.5/ch5/info_ch5.live/master.m3u8
